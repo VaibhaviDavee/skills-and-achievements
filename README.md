@@ -26,8 +26,11 @@ _2. SQL Certification_
 This repository is created to:
 
 Showcase my academic achievements
+
 Highlight my certifications
+
 Present my technical growth journey
+
 Build a strong professional portfolio
 
 **📬 Connect With Me**
