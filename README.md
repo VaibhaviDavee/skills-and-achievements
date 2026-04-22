@@ -15,7 +15,7 @@ B.Sc. Information Technology
 
 **📜 Certifications**
 
-_1. Data Science & Analytics Certification_
+**_1. Data Science & Analytics Certification_**
 
 Successfully completed a course in Data Science & Analytics
 
@@ -29,7 +29,7 @@ Data-driven decision making
 
 Platform: HP LIFE
 
-_2. SQL Certification_
+**_2. SQL Certification_**
 
 Completed SQL for Beginners: Learn SQL using MySQL and Database Design
 
