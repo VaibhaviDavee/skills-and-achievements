@@ -7,7 +7,7 @@ I am a BSc IT student with a strong interest in Data Science, Analytics, and Tec
 
 **🏆 Academic Achievements**
 
-_🥈 Secured 2nd Rank in 1,2,3 Semester_
+**_🥈 Secured 2nd Rank in 1,2,3 Semester_**
 
 B.Sc. Information Technology
 
