@@ -7,59 +7,19 @@ I am a BSc IT student with a strong interest in Data Science, Analytics, and Tec
 
 **🏆 Academic Achievements**
 
-**_🥈 Secured 2nd Rank in 1,2,3 Semester_**
-
-B.Sc. Information Technology
+    Secured 2nd Rank in 1,2,3 Semester -  B.Sc. Information Technology
 
 📍 Demonstrated consistent academic performance and dedication to learning.
 
 **📜 Certifications**
 
-**_1. Data Science & Analytics Certification_**
+_1. Data Science & Analytics Certification_
 
-Successfully completed a course in Data Science & Analytics
-
-Learned:
-
-Data analysis techniques
-
-Business analytics concepts
-
-Data-driven decision making
-
-Platform: HP LIFE
-
-**_2. SQL Certification_**
-
-Completed SQL for Beginners: Learn SQL using MySQL and Database Design
-
-Skills gained:
-
-Database design
-
-Writing SQL queries
-
-Data manipulation and retrieval
-
-Platform: Scaler Topics
+_2. SQL Certification_
 
 **🏅 Competition Achievements**
 
-_🥈 Technowiz Inter-College Competition_
-
-Secured 2nd Prize
-
-Organized by: Ghanshyamdas Saraf College
-
-Event Type: Inter-college technical competition
-
-Demonstrated:
-
-Problem-solving skills
-
-Technical knowledge
-
-Teamwork and innovation
+    Technowiz Inter-College Competition - Secured 2nd Prize
 
 **📂 Repository Purpose**
 
