@@ -22,6 +22,7 @@ _2. SQL Certification_
     Technowiz Inter-College Competition - Secured 2nd Prize
 
 **📂 Repository Purpose**
+
 This repository is created to:
 Showcase my academic achievements, 
 Highlight my certifications, 
